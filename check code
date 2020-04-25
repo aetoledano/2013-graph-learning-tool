@@ -1,0 +1,2 @@
+clui.showUP(e.getLocationOnScreen(), c.getTxt());
+                    c.updateTxt(clui.getPeso());
